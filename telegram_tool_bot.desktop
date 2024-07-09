@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=TelegramBotTool
+Exec=bash -c "source /home/bohdanpoz/my_programs/python/telegram_tool/venv/bin/activate && python3 /home/bohdanpoz/my_programs/python/telegram_tool/main.py"
+Type=Application
+StartupNotify=true
+Path=/home/bohdanpoz/my_programs/python/telegram_tool/
+Icon=/home/bohdanpoz/my_programs/python/telegram_tool/telegrambot.png
